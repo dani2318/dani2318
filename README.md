@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ###📫 How to reach me:
+-   #Twitter: twitter.com/thedaniele2002
