@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###📫 How to reach me:
--   #Twitter: twitter.com/thedaniele2002
+🔭 I’m currently working on:
+Developing my own OS, it's called <a href="https://github.com/dani2318/BlueOS">BlueOS</a>.
+
+🌱 I’m currently learning:
+- C++, C#, Java, PHP, MYSQL
+
+📫 How to reach me:
+- <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
