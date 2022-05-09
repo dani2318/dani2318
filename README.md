@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on:
-Developing my own OS, it's called <a href="https://github.com/dani2318/BlueOS">BlueOS</a>.
+Developing my own OS, it's called BlueOS.
 
 🌱 I’m currently learning:
 - C++, C#, Java, PHP, MYSQL
