@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 🔭 I’m currently working on:
 Developing my own OS, it's called BlueOS.
 
+💬 Known languages:
+- C#, Java, PHP
+
 🌱 I’m currently learning:
-- C++, C#, Java, PHP, MYSQL
+- C++, MYSQL
 
 📫 How to reach me:
 - <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
