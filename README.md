@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on:
-Developing my own OS, it's called BlueOS.
+-  No active project
 
 💬 Known languages:
 - C#, Java, PHP, MYSQL
