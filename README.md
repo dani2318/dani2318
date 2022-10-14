@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 Developing my own OS, it's called BlueOS.
 
 💬 Known languages:
-- C#, Java, PHP
+- C#, Java, PHP, MYSQL
 
 🌱 I’m currently learning:
-- C++, MYSQL
+- C++, C
 
 📫 How to reach me:
 - <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
