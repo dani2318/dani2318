@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -  No active project
 
 💬 Known languages:
-- C#, Java, PHP, MYSQL
+- C#, Java, PHP, MYSQL, Javascript, Typescript
 
 🌱 I’m currently learning:
 - C++, C
