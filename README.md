@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -  No active project
 
 💬 Known languages:
-- C#, Java, PHP, MYSQL, Javascript, Typescript
+- C#, Java, PHP, MYSQL, Javascript, Typescript, C++, C
 
 🌱 I’m currently learning:
-- C++, C
+- OpenGL(GLSL). rust
 
 📫 How to reach me:
 - <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
