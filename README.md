@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 - <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
+- <b>Bluesky:</b> <a href="https://bsky.app/profile/dani23.bsky.social">Link</a>
