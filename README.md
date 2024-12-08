@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - C#, Java, PHP, MYSQL, Javascript, Typescript, C++, C
 
 🌱 I’m currently learning:
-- OpenGL(GLSL), rust
+- OpenGL(GLSL), rust, go
 
 📫 How to reach me:
 - <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
