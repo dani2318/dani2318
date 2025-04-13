@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -  No active project
 
 💬 Known languages:<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" style="width:64px; height:64px;"/>, <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Java" style="width:64px; height:64px;"/>, PHP, MYSQL, Javascript, Typescript, C++, C
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Java" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="width:64px; height:64px;"/>, MYSQL, Javascript, Typescript, C++, C
 
 🌱 I’m currently learning:
 - OpenGL(GLSL), rust, go
