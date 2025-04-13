@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on:
 -  No active project
 
-💬 Known languages:
+💬 Known languages:<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" style="width:64px; height:64px;"/>, Java, PHP, MYSQL, Javascript, Typescript, C++, C
 
 🌱 I’m currently learning:
