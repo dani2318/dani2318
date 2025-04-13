@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -  No active project
 
 💬 Known languages:
-- C#, Java, PHP, MYSQL, Javascript, Typescript, C++, C
+- <img src="https://www.pngwing.com/en/free-png-athow"/>, Java, PHP, MYSQL, Javascript, Typescript, C++, C
 
 🌱 I’m currently learning:
 - OpenGL(GLSL), rust, go
