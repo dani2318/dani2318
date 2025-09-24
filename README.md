@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 🔭 I’m currently working on:<br><br>
 NeoOS <a href="https://github.com/dani2318/NeoOS">link</a> <br><br>
 💬 Known languages:<br>
