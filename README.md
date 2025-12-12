@@ -1,6 +1,3 @@
-![dani2318's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani2318&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
-
-
 🔭 I’m currently working on:<br><br>
 NeoOS <a href="https://github.com/dani2318/NeoOS">link</a> <br><br>
 💬 Known languages:<br>
