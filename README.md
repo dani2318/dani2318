@@ -12,3 +12,4 @@ NeoOS <a href="https://github.com/dani2318/NeoOS">link</a> <br><br>
 📫 How to reach me:
 - <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
 - <b>Bluesky:</b> <a href="https://bsky.app/profile/dani23.bsky.social">Link</a>
+<a rel="me" href="https://mastodon.social/@dani2318">Mastodon</a>
