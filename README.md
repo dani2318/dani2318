@@ -13,11 +13,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dani2318&show_icons=true&theme=radical" alt="dani2318's GitHub stats" />
+  <img src="https://github-readme-stats-kappa-snowy.vercel.app/api?username=dani2318&show_icons=true&theme=tokyonight" alt="dani2318's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani2318&layout=compact&theme=radical" alt="dani2318's top languages" />
+  <img src="https://github-readme-stats-kappa-snowy.vercel.app/api/top-langs/?username=dani2318&layout=compact&theme=tokyonight" alt="dani2318's top languages" />
 </p>
 
 ## 🔥 Featured Projects
