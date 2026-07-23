@@ -6,9 +6,7 @@
 
 <b>📊 GitHub Stats</b><br/>
 
-<div align="center">
-  <img src="https://github-readme-stats-kappa-snowy.vercel.app/api?username=dani2318&show_icons=true&theme=tokyonight" alt="dani2318's GitHub stats" />
-</div>
+<img src="https://github-readme-stats-kappa-snowy.vercel.app/api?username=dani2318&show_icons=true&theme=tokyonight" alt="dani2318's GitHub stats" />
 
 <b>🔥 Featured Projects</b><br/>
 
