@@ -1,6 +1,6 @@
 # Hi there, I'm dani2318 👋
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -10,14 +10,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-kappa-snowy.vercel.app/api?username=dani2318&show_icons=true&theme=tokyonight" alt="dani2318's GitHub stats" />
   <img src="https://github-readme-stats-kappa-snowy.vercel.app/api/top-langs/?username=dani2318&layout=compact&theme=tokyonight" alt="dani2318's top languages" />
 </div>
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
 <!-- Add your projects here -->
 <!-- Example:
@@ -26,7 +26,7 @@
 
 *Projects coming soon...*
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <!-- Add your social links here -->
 <!-- Example:
