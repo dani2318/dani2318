@@ -1,7 +1,7 @@
 # Hi there, I'm dani2318 👋
 
 <b>🔥 Featured Projects</b><br/>
-
+- *Projects coming soon...*
 <!-- Add your projects here -->
 <!-- Example:
 - **[Project Name](link)** - Brief description of the project
@@ -16,7 +16,6 @@
 <img src="https://github-readme-stats-kappa-snowy.vercel.app/api?username=dani2318&show_icons=true&theme=tokyonight" alt="dani2318's GitHub stats" />
 
 
-*Projects coming soon...*
 
 <b>🌐 Connect With Me</b><br/>
 
