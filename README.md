@@ -11,7 +11,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats
-
+<style>
+  .test {
+  }
+</style>
 <p align="center">
   <img src="https://github-readme-stats-kappa-snowy.vercel.app/api?username=dani2318&show_icons=true&theme=tokyonight" alt="dani2318's GitHub stats" />
 </p>
