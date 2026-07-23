@@ -1,5 +1,12 @@
 # Hi there, I'm dani2318 👋
 
+<b>🔥 Featured Projects</b><br/>
+
+<!-- Add your projects here -->
+<!-- Example:
+- **[Project Name](link)** - Brief description of the project
+-->
+
 <b>🛠️ Tech Stack</b><br/>
 
 <img src="https://github-readme-stats-kappa-snowy.vercel.app/api/top-langs/?username=dani2318&layout=compact&theme=tokyonight" alt="dani2318's top languages" />
@@ -8,12 +15,6 @@
 
 <img src="https://github-readme-stats-kappa-snowy.vercel.app/api?username=dani2318&show_icons=true&theme=tokyonight" alt="dani2318's GitHub stats" />
 
-<b>🔥 Featured Projects</b><br/>
-
-<!-- Add your projects here -->
-<!-- Example:
-- **[Project Name](link)** - Brief description of the project
--->
 
 *Projects coming soon...*
 
