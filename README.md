@@ -1,15 +1,41 @@
-🔭 I’m currently working on:<br><br>
-<br/>
-💬 Known languages:<br>
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Java" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MYSQL" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" style="width:64px; height:64px;"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C++" style="width:64px; height:64px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" style="width:64px; height:64px;"/>
-</p>
-🌱 I’m currently learning:
-<p align="left">
+# Hi there, I'm dani2318 👋
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dani2318&show_icons=true&theme=radical" alt="dani2318's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani2318&layout=compact&theme=radical" alt="dani2318's top languages" />
+</p>
 
-📫 How to reach me:
-- <b>Twitter:</b> <a href="twitter.com/thedaniele2002">Link</a>
-- <b>Bluesky:</b> <a href="https://bsky.app/profile/dani23.bsky.social">Link</a>
-- <b>Mastodon</b> <a rel="me" href="https://mastodon.social/@dani2318">Link</a>
+## 🔥 Featured Projects
+
+<!-- Add your projects here -->
+<!-- Example:
+- **[Project Name](link)** - Brief description of the project
+-->
+
+*Projects coming soon...*
+
+## 🌐 Connect With Me
+
+<!-- Add your social links here -->
+<!-- Example:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
+-->
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/dani2318_)
+
+---
