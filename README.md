@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/-Twitch-1DA1F2?style=for-the-badge&logo=twitch)](https://www.twitch.tv/dani2318_)
 
 <b>🔥 Featured Projects</b><br/>
-- *Projects coming soon...*
+- **[feather-chat](https://github.com/seagullhq/feather-chat)** - A small, fast voice chat app. Open it, join a room, talk.
 <!-- Add your projects here -->
 <!-- Example:
 - **[Project Name](link)** - Brief description of the project
