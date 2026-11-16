@@ -18,8 +18,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**feather-chat**](https://github.com/seagullhq/feather-chat) | Small, fast voice chat. Open it, join a room, talk. TCP control channel, UDP voice (Opus). | Go · C++ · Qt6 |
-| [**UltimaOS**](#) | Hobby x86-64 UEFI operating system from scratch. | C++ · NASM |
-| [**LFG**](#) | Gaming-focused "Looking for Group" web platform. | Node.js · Express · MariaDB |
+
 
 ## 🛠️ Tech stack
 
