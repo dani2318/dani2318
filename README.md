@@ -27,6 +27,7 @@
 
 ## 🛠️ Tech stack
 |   |   |
+|---|---|
 | **Systems** | <img src="https://skillicons.dev/icons?i=rust,cpp,go,c,linux&perline=10" alt="systems" /> |
 | **Web / backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mariadb,mongodb&perline=10" alt="web" /> |
 | **Tooling** | <img src="https://skillicons.dev/icons?i=docker,git,github,fedora&perline=10" alt="tooling" /> |
