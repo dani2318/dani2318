@@ -26,8 +26,7 @@
 | [**feather-chat**](https://github.com/seagullhq/feather-chat) | Small, fast voice chat. Open it, join a room, talk. TCP control channel, UDP voice (Opus). | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) |
 
 ## 🛠️ Tech stack
-
-|---|---|
+|   |   |
 | **Systems** | <img src="https://skillicons.dev/icons?i=rust,cpp,go,c,linux&perline=10" alt="systems" /> |
 | **Web / backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mariadb,mongodb&perline=10" alt="web" /> |
 | **Tooling** | <img src="https://skillicons.dev/icons?i=docker,git,github,fedora&perline=10" alt="tooling" /> |
